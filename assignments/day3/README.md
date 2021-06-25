@@ -11,6 +11,15 @@ we use the datetime module from numpy to get the date and time.
 for tomorrow we just add one day from the day today 
 for yesterday we sabtract one day from the day today and print the output and the date is displayed as illustrated by the screen recording below.
 
+#Question 2:
+```Write a NumPy program to find the number of weekdaysin a given month. Allow theuser to input the month and year of their choice ```
+- Import numpy module 
+- Allow user to input starting month and year
+- allow user to input stopping month and year
+- count the number of weekdays using numpy module
+- display the weekdays as illustrated below
+
+
 
 
 # Question 3: 
