@@ -28,7 +28,7 @@ c = 2 * asin(sqrt(a))
  # calculate the result
 result = (c * r)
 
-print('The distance between Nairobi and Cairo is:')
+print('\n\nThe distance between Nairobi and Cairo is: \n\n')
 print(int(result))
 
 

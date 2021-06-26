@@ -6,4 +6,5 @@ geolocator = Nominatim(user_agent="Get data from lat and long")
 # reverse the location and get the lat and long
 location = geolocator.reverse("52.509669, 13.376294")
 # print address
+print('\n\n The location address is:\n')
 print(location.address) 
