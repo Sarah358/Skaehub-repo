@@ -53,6 +53,12 @@ get full code from get_details.py file
   
   get full code from get_data.py file
   
+  ![question_3](https://user-images.githubusercontent.com/60597568/123509692-a3122c80-d67f-11eb-8b9f-72f1581c7b13.gif)
+
+
+
+
+  
   # Question 4
   
   ```Write a Python program to search the country namefrom a given state nameusing the  Nominatim API and GeoPy package```
@@ -62,6 +68,8 @@ get full code from get_details.py file
   3. split the address location and print the last index of the address which is the country as illustrated below.
  
 get full code from get_country.py file
+
+![country](https://user-images.githubusercontent.com/60597568/123509701-ab6a6780-d67f-11eb-814e-3f4762bdf5c1.gif)
 
 # Question five
 
@@ -75,6 +83,8 @@ PS:The iterable data type should be a list or a stringor a dictionary, etc
 3. call the function and print the list as illustrated below.
 Get full code on recursion.py file.
 
+![question_5](https://user-images.githubusercontent.com/60597568/123509710-b1f8df00-d67f-11eb-951f-a4acd7e4b0b9.gif)
+
 # Question six.
 
 ```Write a Python program to sort a list of dictionariesusing Lambda ```
@@ -83,6 +93,9 @@ Get full code on recursion.py file.
 2. print the list to preview it.
 3. Sort the list and use lambda funtion to sort by using a specific key in the dictionary
 4. print the sorted list as illustrated below.
+
+
+![question_6](https://user-images.githubusercontent.com/60597568/123509714-bae9b080-d67f-11eb-8784-ef887dc6a5d6.gif)
 
 # Question seven
 
@@ -95,6 +108,9 @@ Get full code on recursion.py file.
 5. This prints the max and minimum values as illustrated below.
 
 get full code at get_min_max.py file in my repo
+
+
+![question_7](https://user-images.githubusercontent.com/60597568/123509718-c0df9180-d67f-11eb-8f75-4e70435325ae.gif)
 
   
  
