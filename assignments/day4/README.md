@@ -7,6 +7,8 @@
 - Allow user to input zipcode
 -Geolocator then gets the location of the zipcode input and prints adress, latitide and longitude. As illustrated below
 
+get full code from get_details.py file
+
 ![2021-06-26 11-45-47](https://user-images.githubusercontent.com/60597568/123507829-5a08ab00-d674-11eb-8528-bd50dbcda0fe.gif)
 
 # Question two
@@ -34,7 +36,67 @@
       ```
  4. Calculate result using formula
      ```result = (c * r) ```
-  5. Print result as illustrated below.    
+  5. Print result as illustrated below.  
+  
+  get full code from get_distance.py file
+  
+  ![2021-06-26 12-09-39 (1)](https://user-images.githubusercontent.com/60597568/123508425-0b5d1000-d678-11eb-845a-5828109d0df0.gif)
+  
+  # Question three
+  
+  ```Write a Python function to get the city, state andcountry name of a specifiedlatitude and longitude using Nominatim API and Geopypackage. ```
+  
+  1. import niminatim
+  2. Use the reverse method in geolocator to input the latitude and longitude:
+     ```location = geolocator.reverse("52.509669, 13.376294") ```
+  3.Print the location address of the latitude and longitude.As illustrated below.
+  
+  get full code from get_data.py file
+  
+  # Question 4
+  
+  ```Write a Python program to search the country namefrom a given state nameusing the  Nominatim API and GeoPy package```
+  
+  1. import niminatim module
+  2. Prompt user to input a state name
+  3. split the address location and print the last index of the address which is the country as illustrated below.
+ 
+get full code from get_country.py file
+
+# Question five
+
+```Write a Python program to generate an infinite cycleof elements from an iterable.
+
+PS:The iterable data type should be a list or a stringor a dictionary, etc
+
+```
+1. Create a list and assign it to a variable.
+2. Define a function and loop through the items recursively. Read obout recursion on the python documentation.
+3. call the function and print the list as illustrated below.
+Get full code on recursion.py file.
+
+# Question six.
+
+```Write a Python program to sort a list of dictionariesusing Lambda ```
+
+1. Create a list of dictionaries and assign it to a variable.
+2. print the list to preview it.
+3. Sort the list and use lambda funtion to sort by using a specific key in the dictionary
+4. print the sorted list as illustrated below.
+
+# Question seven
+
+```Write a Python program to find the maximum and minimumvalues in a given listof tuples using a lambda function ```
+
+1. Define a function to get min and max values
+2. Use lambda function to get the max and min and return the values.
+3. ASign a list of tuples to a variable .
+4. call the function and parse the list as an argument.
+5. This prints the max and minimum values as illustrated below.
+
+get full code at get_min_max.py file in my repo
+
+  
  
 
 
