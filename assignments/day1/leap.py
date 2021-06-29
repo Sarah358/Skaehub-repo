@@ -12,6 +12,7 @@ def leap_year(y):
         return True
     else:
         return False
+
 # allow input
 x = int(input('Enter a year ' ))
 print(leap_year (x))

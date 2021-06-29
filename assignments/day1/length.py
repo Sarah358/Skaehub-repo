@@ -3,6 +3,7 @@ def len_last_word(a):
     arr = a.split(' ')
     # check size of the word
     size = len(arr)
+
     # if the size is 1 return the length of that word
     # 
     if size==0:
